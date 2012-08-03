@@ -1,25 +1,9 @@
 /*
-  Copyright (c) 2012 David Menting <david@nut-bolt.nl>
+  Copyright (c) 2012 Nut & Bolt, http://nut-bolt.nl/
 
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to deal
-  in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-  THE SOFTWARE.
-
-  ===========
+  This code is distributed under the terms of the MIT license. See included MIT-LICENSE file for details.
+  Based on digital caliper readout code for the MSP430 by Robocombo: http://robocombo.blogspot.nl/2010/12/using-tis-launchpad-to-interface.html
+  (used with permission)
   
   Infrared irSensor reader for the Computer Augmented Crafts installation by Christian Fiebig
   
@@ -27,9 +11,6 @@
   36 IR leds hooked up to port 1-9 of four 74HC4017 decade counters.
   The Master Reset and !Clock Enable pins of the 74HC4017 are tied to the SEL1-SEL4 pins.
   IR phototransistor hooked up to IR_SENSE
-  
-  Based on digital caliper readout code for the MSP430 by Robocombo: http://robocombo.blogspot.nl/2010/12/using-tis-launchpad-to-interface.html
-  (used with permission)
   
 */
 #define IR_SENSE 11
