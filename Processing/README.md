@@ -1,4 +1,3 @@
-
 CAC Processing Tools
 --------------------
 
@@ -49,8 +48,6 @@ if you chose to redistribute the libraries
 * [ **PeasyCam** by Jonathan Feinberg ](http://mrfeinberg.com/peasycam/) -- Apache 2.0
 * [ **HEMesh** by Frederik Vanhoutte  ](http://hemesh.wblut.com/) -- LGPL 
 * [ **p5magic** by Karsten Schmidt    ](http://hg.postspectacular.com/cp5magic/) -- LGPL
-* [ **Java Delaunay Triangulation**   ](http://code.google.com/p/jdt/) -- Apache 2.0  
-
+* [ **Java Delaunay Triangulation**   ](http://code.google.com/p/jdt/) -- Apache 2.0
 * [ **ToxicLibs** by Karsten Schmidt  ](http://toxiclibs.org/) -- LGPL
-* [ **Javolution**  ](http://javolution.org/) -- BSD 
-
+* [ **Javolution**  ](http://javolution.org/) -- BSD
