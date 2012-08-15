@@ -13,6 +13,8 @@ ___
 
 The setup has a hardware and software part. The hardware is managed by an arduino, the software is based on processing. 
 
+
+![Screenshot](https://lh3.googleusercontent.com/-zjq_NIPedxM/T8oYdYgPQVI/AAAAAAAAFyQ/T5daTehi_pg/s2048/DSC_5014.png)
 The setup consists of a physical workstation with following parts:
 
 * roll of steal band
@@ -21,7 +23,6 @@ The setup consists of a physical workstation with following parts:
 * computer + display 
 * sensors connected to an arduino. (see [readme arduino](https://github.com/fiebigc/Computer-Augmented-Crafts/blob/master/Arduino/README.md))
 
-![Screenshot](https://lh3.googleusercontent.com/-zjq_NIPedxM/T8oYdYgPQVI/AAAAAAAAFyQ/T5daTehi_pg/s2048/DSC_5014.png)
 
 
 Licensing
@@ -33,4 +34,4 @@ The concept of Computer Augmented Crafts was created by Christian Fiebig under C
 For the license details of the arduino and processing developments please visit both subfolders.
 
 ___
-copyright © 2012 Christian Fiebig.
+copyright © 2012 Christian Fiebig. 
