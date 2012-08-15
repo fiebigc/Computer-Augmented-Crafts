@@ -12,7 +12,6 @@ With the support of developers [David Menting](http://nut-bolt.nl/) and [Martin 
 ___
 
 The setup has a hardware and software part. The hardware is managed by an arduino, the software is based on processing. 
-![Screenshot](https://lh3.googleusercontent.com/-zjq_NIPedxM/T8oYdYgPQVI/AAAAAAAAFyQ/T5daTehi_pg/s2048/DSC_5014.png)
 
 The setup consists of a physical workstation with following parts:
 
@@ -21,6 +20,9 @@ The setup consists of a physical workstation with following parts:
 * spot welding machine
 * computer + display 
 * sensors connected to an arduino. (see [readme arduino](https://github.com/fiebigc/Computer-Augmented-Crafts/blob/master/Arduino/README.md))
+
+![Screenshot](https://lh3.googleusercontent.com/-zjq_NIPedxM/T8oYdYgPQVI/AAAAAAAAFyQ/T5daTehi_pg/s2048/DSC_5014.png)
+
 
 Licensing
 ---
