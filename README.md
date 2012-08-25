@@ -7,6 +7,7 @@ ___
 
 The idea of the Computer Augmented Crafts project is an interface which recommends decisions to the designer whilst he/she works. The computer maps the making process, via sensors, instantly generating possible formal recommendations based on the designers chosen parameters. This project is an attempt to utilize advanced technologies without sacrificing the unique qualities of craftsmanship.
 ![Screenshot](https://lh5.googleusercontent.com/-eaIpiDbIm24/UDiiNDGgG8I/AAAAAAAAKfY/Kck0PWHSMyg/s720/CAC_setup-explanation_1-03.png)
+
 With the support of developers [David Menting](http://nut-bolt.nl/) and [Martin Schneider](http://www.k2g2.org/blog:bit.craft), we developed a working system based on processing and arduino. With the opensource ‘generator’ and ‘sequencer’ any artist or designer can create a virtual mesh, that with the use of the setup can be crafted into physical object. It is then in the hand of the craftsman to make the exact same physical mesh like the virtual mesh or use the virtual mesh just as a base to create something totally different. Ideally it will enable the designer to create something nor him or the computer itself could have come up with.
 
 ___
